@@ -1,6 +1,6 @@
-# binary_calculator
+# BinaryCalculator - sesión 5 Tests y Devops
 
-A new Flutter project.
+Solución componente practico sesión 5
 
 ## Getting Started
 
