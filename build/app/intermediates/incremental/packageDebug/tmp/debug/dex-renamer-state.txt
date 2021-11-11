@@ -1,0 +1,4 @@
+#Thu Nov 11 06:25:40 COT 2021
+base.0=/Users/augustosalazar/Projects/Flutter2020/misionTIC/BinaryCalculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
