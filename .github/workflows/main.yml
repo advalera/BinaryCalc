@@ -26,5 +26,4 @@ jobs:
           flutter-version: '2.2.3'
       - run: flutter pub pub add flutter_svg
       - run: flutter pub get
-      - run: flutter test/domain/use_cases
       - run: flutter test
